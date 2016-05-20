@@ -1,0 +1,2 @@
+Api-Export: com.truck.member.api.MemberService
+Api-Dependency-Type: dubbo

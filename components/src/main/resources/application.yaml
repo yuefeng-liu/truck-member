@@ -1,0 +1,20 @@
+mybatis:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://192.168.1.102:3306/test?characterEncoding=UTF-8
+  username: gls
+  password: ODlhNDk5
+  maxActive: 8
+
+  typeAliasesPackage: com.truck.base.entities
+  mapperLocations: classpath:com/truck/base/repositories/*.xml
+  basePackage: com.truck.base.repositories
+
+dubbo:
+  zookeeper: zookeeper://127.0.0.1:2181
+  port: 20880
+
+
+jdbc:
+  url: jdbc:mysql://192.168.1.102:3306/test?characterEncoding=UTF-8
+  user: gls
+  password: ODlhNDk5
