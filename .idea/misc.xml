@@ -28,7 +28,7 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
-  <component name="IdProvider" IDEtalkID="58983847BE1D7F37BACD91E4555FCD09" />
+  <component name="IdProvider" IDEtalkID="B2B5DF2D6812B7811F0D3CB176B32DE3" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -158,7 +158,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

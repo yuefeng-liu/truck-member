@@ -23,8 +23,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="truck-member" />
+        <module name="truck-member-api" />
+        <module name="truck-member-components" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="truck-member" target="1.8" />
+      <module name="truck-member-api" target="1.8" />
+      <module name="truck-member-components" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

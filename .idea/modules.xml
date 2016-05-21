@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/truck-member.iml" filepath="$PROJECT_DIR$/truck-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/truck-member-api.iml" filepath="$PROJECT_DIR$/api/truck-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/truck-member-components.iml" filepath="$PROJECT_DIR$/components/truck-member-components.iml" />
     </modules>
   </component>
 </project>
